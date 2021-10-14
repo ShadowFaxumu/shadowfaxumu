@@ -14,7 +14,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="A picture of me" height="150em" src="https://i.picasion.com/pic91/7381321b5a33f2457809d64ad42a3cc4.gif"> 
+  <img align="right" alt="A picture of me" height="150em" style="border-radius:50px;" src="https://i.picasion.com/pic91/7381321b5a33f2457809d64ad42a3cc4.gif"> 
 </div>
 
 ##
