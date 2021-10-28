@@ -1,7 +1,3 @@
-<style type="text/css" rel="stylesheet">
-* { color: red; }
-</style>
-
 ### Hi there I'm ShadowFax👋
 
 - 🌱 Actualmente estoy aprendiendo GitHub, Git y Python  
