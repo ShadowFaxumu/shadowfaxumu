@@ -3,7 +3,7 @@
 - 🌱 Actualmente estoy aprendiendo GitHub, Git y Python  
 - 💬 Preguntame lo que quieras uwu
 - 😄 Pronombres: ShadowFax | NakedSoul
-- ⚡ Dato curioso: Me gustan los perros y [Salo ♥](https://github.com/SayagoDev) c:
+- ⚡ Dato curioso: Me gustan los perros y los cuisss c:
 
 <div align="center">
   <a href="https://github.com/shadowfaxumu">
